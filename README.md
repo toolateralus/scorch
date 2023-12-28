@@ -10,13 +10,17 @@ then (the important step),
 
 
 to use the language (runs the file `scorch-interpreter/scorch_src/main.scorch`):
+
 `cd scorch-interpreter ; cargo r --release`
 
 to use the language from a command line REPL (read, eval, print loop) 
-`cd scorch-interpeter ; cargo -r --release cli`
+
+`cd scorch-interpeter ; cargo r --release cli`
 
 to dump the token output, AST, and post-execution context to std out
-`cd scorch-interpeter ; cargo -r --release dump`
+
+`cd scorch-interpeter ; cargo r --release dump`
 
 to dump the token output, AST, and post-execution context to std out
+
 `cd scorch-interpeter ; chmod +x scripts/sterr_dump.sh ; ./scripts/sterr_dump.sh`
