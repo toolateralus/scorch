@@ -1,0 +1,9 @@
+[submodule "scorch-doc"]
+	path = scorch-doc
+	url = https://github.com/toolateralus/scorch-doc
+[submodule "scorch-interpreter"]
+	path = scorch-interpreter
+	url = https://github.com/toolateralus/scorch-interpreter
+[submodule "scorch-parser"]
+	path = scorch-parser
+	url = https://github.com/toolateralus/scorch-parser
