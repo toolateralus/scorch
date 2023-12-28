@@ -7,3 +7,6 @@
 [submodule "scorch-parser"]
 	path = scorch-parser
 	url = https://github.com/toolateralus/scorch-parser
+[submodule "scorch-vsce"]
+	path = scorch-vsce
+	url = https://github.com/toolateralus/scorch-vsce
