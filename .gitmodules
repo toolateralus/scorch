@@ -10,3 +10,6 @@
 [submodule "scorch-vsce"]
 	path = scorch-vsce
 	url = https://github.com/toolateralus/scorch-vsce
+[submodule "scorch-pkg"]
+	path = scorch-pkg
+	url = https://github.com/toolateralus/scorch-pkg
